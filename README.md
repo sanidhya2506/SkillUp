@@ -14,4 +14,4 @@
 | Day 6| 2026-05-16 |Longest consecutive sequenece| Neetcode     | [Problem](https://neetcode.io/problems/longest-consecutive-sequence/history?list=neetcode150) | ✅ |
 | Day 6| 2026-05-16 |Valid Palindrome| Neetcode     | [Problem](https://neetcode.io/problems/is-palindrome/history?list=neetcode150) | ✅ |
 | Day 7| 2026-05-17 |2 integers sum II| Neetcode     | [Problem](https://neetcode.io/problems/two-integer-sum-ii/history?submissionIndex=1) | ✅ |
-| Day 7| 2026-05-17 |3Sum | Neetcode     | [Problem](https://neetcode.io/problems/three-integer-sum/history?list=neetcode150) | ✅ |
+| Day 8| 2026-05-18 |3Sum | Neetcode     | [Problem](https://neetcode.io/problems/three-integer-sum/history?list=neetcode150) | ✅ |
