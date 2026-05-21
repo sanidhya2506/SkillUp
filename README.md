@@ -17,3 +17,4 @@
 | Day 8| 2026-05-18 |3Sum | Neetcode     | [Problem](https://neetcode.io/problems/three-integer-sum/history?list=neetcode150) | ✅ |
 | Day 9| 2026-05-19 |Best time to buy and sell stock | Neetcode     | [Problem](https://neetcode.io/problems/buy-and-sell-crypto/question?list=neetcode150) | ✅ |
 | Day 10| 2026-05-20 |Permutation in String| Neetcode     | [Problem](https://neetcode.io/problems/permutation-string/history?list=neetcode150) | ✅ |
+| Day 11| 2026-05-21 |Longest Repeating Character| Neetcode     | [Problem](https://neetcode.io/problems/longest-repeating-substring-with-replacement/history?list=neetcode150) | ✅ |
