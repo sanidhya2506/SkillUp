@@ -18,4 +18,5 @@
 | Day 9| 2026-05-19 |Best time to buy and sell stock | Neetcode     | [Problem](https://neetcode.io/problems/buy-and-sell-crypto/question?list=neetcode150) | ✅ |
 | Day 10| 2026-05-20 |Permutation in String| Neetcode     | [Problem](https://neetcode.io/problems/permutation-string/history?list=neetcode150) | ✅ |
 | Day 11| 2026-05-21 |Longest Repeating Character| Neetcode     | [Problem](https://neetcode.io/problems/longest-repeating-substring-with-replacement/history?list=neetcode150) | ✅ |
-| Day 11| 2026-05-21 |Minimum Window Sliding| Neetcode     | [Problem](https://neetcode.io/problems/minimum-window-with-characters/history?list=neetcode150) | ✅ |
+| Day 11| 2026-05-22 |Minimum Window Sliding| Neetcode     | [Problem](https://neetcode.io/problems/minimum-window-with-characters/history?list=neetcode150) | ✅ |
+| Day 12| 2026-05-23 |Sliding Window Maximum| Neetcode     | [Problem](https://neetcode.io/problems/sliding-window-maximum/history?list=neetcode150) | ✅ |
