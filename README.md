@@ -20,3 +20,5 @@
 | Day 11| 2026-05-21 |Longest Repeating Character| Neetcode     | [Problem](https://neetcode.io/problems/longest-repeating-substring-with-replacement/history?list=neetcode150) | ✅ |
 | Day 11| 2026-05-22 |Minimum Window Sliding| Neetcode     | [Problem](https://neetcode.io/problems/minimum-window-with-characters/history?list=neetcode150) | ✅ |
 | Day 12| 2026-05-23 |Sliding Window Maximum| Neetcode     | [Problem](https://neetcode.io/problems/sliding-window-maximum/history?list=neetcode150) | ✅ |
+| Day 13| 2026-05-24 |Binary Search| Neetcode     | [Problem](https://neetcode.io/problems/binary-search/question?list=neetcode150) | ✅ |
+| Day 13| 2026-05-24 |Search in a 2D Matrix| Neetcode     | [Problem](https://neetcode.io/problems/search-2d-matrix/history?list=neetcode150) | ✅ |
