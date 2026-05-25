@@ -22,3 +22,4 @@
 | Day 12| 2026-05-23 |Sliding Window Maximum| Neetcode     | [Problem](https://neetcode.io/problems/sliding-window-maximum/history?list=neetcode150) | ✅ |
 | Day 13| 2026-05-24 |Binary Search| Neetcode     | [Problem](https://neetcode.io/problems/binary-search/question?list=neetcode150) | ✅ |
 | Day 13| 2026-05-24 |Search in a 2D Matrix| Neetcode     | [Problem](https://neetcode.io/problems/search-2d-matrix/history?list=neetcode150) | ✅ |
+| Day 14| 2026-05-25 |Valid Parentheses| Neetcode     | [Problem](https://neetcode.io/problems/validate-parentheses/question?list=neetcode150) | ✅ |
