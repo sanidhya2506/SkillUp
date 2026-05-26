@@ -23,3 +23,4 @@
 | Day 13| 2026-05-24 |Binary Search| Neetcode     | [Problem](https://neetcode.io/problems/binary-search/question?list=neetcode150) | ✅ |
 | Day 13| 2026-05-24 |Search in a 2D Matrix| Neetcode     | [Problem](https://neetcode.io/problems/search-2d-matrix/history?list=neetcode150) | ✅ |
 | Day 14| 2026-05-25 |Valid Parentheses| Neetcode     | [Problem](https://neetcode.io/problems/validate-parentheses/question?list=neetcode150) | ✅ |
+| Day 15| 2026-05-26 |koko Eating Banana| Neetcode     | [Problem](https://neetcode.io/problems/eating-bananas/history?list=neetcode150) | ✅ |
