@@ -26,7 +26,7 @@
 | Day 15| 2026-05-26 |koko Eating Banana| Neetcode     | [Problem](https://neetcode.io/problems/eating-bananas/history?list=neetcode150) | ✅ |
 | Day 16| 2026-05-27 |Reverse Linked List| Neetcode     | [Problem](https://neetcode.io/problems/reverse-a-linked-list/history?list=neetcode150) | ✅ |
 | Day 17| 2026-05-28 |Inverse Tree| Neetcode     | [Problem](https://neetcode.io/problems/invert-a-binary-tree/question?list=neetcode150) | ✅ |
-
+| Day 18| 2026-05-29 |Merge Two Sorted Linked Lists| Neetcode     | [Problem](https://neetcode.io/problems/merge-two-sorted-linked-lists/question) | ✅ |
 
 
 
