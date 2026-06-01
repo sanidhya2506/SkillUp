@@ -29,7 +29,7 @@
 | Day 18| 2026-05-29 |Merge Two Sorted Linked Lists| Neetcode     | [Problem](https://neetcode.io/problems/merge-two-sorted-linked-lists/question) | ✅ |
 | Day 19| 2026-05-30 |Min Stack| Neetcode     | [Problem](https://neetcode.io/problems/minimum-stack/question) | ✅ |
 | Day 20| 2026-05-31 |Evaulate Reverse Polish Notation| Neetcode     | [Problem](https://neetcode.io/problems/evaluate-reverse-polish-notation/question?list=neetcode150) | ✅ |
-
+| Day 21| 2026-06-1 |Linked List Cycle Detection| Neetcode     | [Problem](https://neetcode.io/problems/linked-list-cycle-detection/question) | ✅ |
 
 
 
