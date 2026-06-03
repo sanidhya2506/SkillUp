@@ -31,7 +31,7 @@
 | Day 20| 2026-05-31 |Evaulate Reverse Polish Notation| Neetcode     | [Problem](https://neetcode.io/problems/evaluate-reverse-polish-notation/question?list=neetcode150) | ✅ |
 | Day 21| 2026-06-1 |Linked List Cycle Detection| Neetcode     | [Problem](https://neetcode.io/problems/linked-list-cycle-detection/question) | ✅ |
 | Day 22| 2026-06-2 |Reorder Linked List| Neetcode     | [Problem](https://neetcode.io/problems/reorder-linked-list/question) | ✅ |
-
+| Day 23| 2026-06-3 |Remove Nth Node From End of List| Neetcode     | [Problem](https://neetcode.io/problems/remove-node-from-end-of-linked-list/question) | ✅ |
 
 
 
