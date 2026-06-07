@@ -35,7 +35,7 @@
 | Day 24| 2026-06-4 |Copy Linked List with Random Pointer| Neetcode     | [Problem](https://neetcode.io/problems/copy-linked-list-with-random-pointer/question) | ✅ |
 | Day 25| 2026-06-5 |Add Two Numbers| Neetcode     | [Problem](https://neetcode.io/problems/add-two-numbers/history?list=neetcode150&submissionIndex=0) | ✅ |
 | Day 26| 2026-06-6 |Find Duplicate Number| Neetcode     | [Problem](https://neetcode.io/problems/find-duplicate-integer/question) | ✅ |
-
+| Day 27| 2026-06-7 |LRU Cache| Neetcode     | [Problem](https://neetcode.io/problems/lru-cache/question) | ✅ |
 
 
 
