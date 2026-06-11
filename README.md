@@ -39,7 +39,7 @@
 | Day 28| 2026-06-8 |Find Minimum in Rotated Sorted Array| Neetcode     | [Problem](https://neetcode.io/problems/find-minimum-in-rotated-sorted-array/question) | ✅ |
 | Day 29| 2026-06-9 |Merge K sorted LL| Neetcode     | [Problem](https://neetcode.io/problems/merge-k-sorted-linked-lists/question) | ✅ |
 | Day 30| 2026-06-10 |Reverse Nodes in K Group| Neetcode     | [Problem](https://neetcode.io/problems/reverse-nodes-in-k-group/question) | ✅ |
-
+| Day 31| 2026-06-11 |Daily Tempratures| Neetcode     | [Problem](https://neetcode.io/problems/daily-temperatures/question) | ✅ |
 
 
 
