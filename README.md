@@ -42,7 +42,7 @@
 | Day 31| 2026-06-11 |Daily Tempratures| Neetcode     | [Problem](https://neetcode.io/problems/daily-temperatures/question) | ✅ |
 | Day 32| 2026-06-12 |Car Fleet| Neetcode     | [Problem](https://neetcode.io/problems/car-fleet/question) | ✅ |
 | Day 33| 2026-06-13 |Search in Roatated Sorted Array| Neetcode     | [Problem](https://neetcode.io/problems/find-target-in-rotated-sorted-array/question) | ✅ |
-
+| Day 34| 2026-06-14 |Largest rectangle In Histogram| Neetcode     | [Problem](http://neetcode.io/problems/largest-rectangle-in-histogram/question) | ✅ |
 
 
 
