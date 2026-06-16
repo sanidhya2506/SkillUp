@@ -44,7 +44,7 @@
 | Day 33| 2026-06-13 |Search in Roatated Sorted Array| Neetcode     | [Problem](https://neetcode.io/problems/find-target-in-rotated-sorted-array/question) | ✅ |
 | Day 34| 2026-06-14 |Largest rectangle In Histogram| Neetcode     | [Problem](http://neetcode.io/problems/largest-rectangle-in-histogram/question) | ✅ |
 | Day 35| 2026-06-15 |Time based key value Store| Neetcode     | [Problem](https://neetcode.io/problems/time-based-key-value-store/question) | ✅ |
-
+| Day 36| 2026-06-16 |Median of Two Sorted Array| Neetcode     | [Problem](https://neetcode.io/problems/median-of-two-sorted-arrays/question) | ✅ |
 
 
 
