@@ -46,5 +46,5 @@
 | Day 35| 2026-06-15 |Time based key value Store| Neetcode     | [Problem](https://neetcode.io/problems/time-based-key-value-store/question) | ✅ |
 | Day 36| 2026-06-16 |Median of Two Sorted Array| Neetcode     | [Problem](https://neetcode.io/problems/median-of-two-sorted-arrays/question) | ✅ |
 | Day 37| 2026-06-17 |Balanced BT| Neetcode     | [Problem](https://neetcode.io/problems/balanced-binary-tree/question) | ✅ |
-
+| Day 38| 2026-06-18 |Same Tree| Neetcode     | [Problem](https://neetcode.io/problems/same-binary-tree/question?list=neetcode150) | ✅ |
 
