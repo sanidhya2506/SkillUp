@@ -49,7 +49,7 @@
 | Day 38| 2026-06-18 |Same Tree| Neetcode     | [Problem](https://neetcode.io/problems/same-binary-tree/question?list=neetcode150) | ✅ |
 | Day 39| 2026-06-19 |Subtree of Another Tree| Neetcode     | [Problem](https://neetcode.io/problems/subtree-of-a-binary-tree/question) | ✅ |
 | Day 40| 2026-06-20 |LCS in BST | Neetcode     | [Problem](http://neetcode.io/problems/lowest-common-ancestor-in-binary-search-tree/question) | ✅ |
-
+| Day 41| 2026-06-21 |Binary tree Traversal | Neetcode     | [Problem](https://neetcode.io/problems/level-order-traversal-of-binary-tree/question) | ✅ |
 
 
 
