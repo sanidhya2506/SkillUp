@@ -51,7 +51,7 @@
 | Day 40| 2026-06-20 |LCS in BST | Neetcode     | [Problem](http://neetcode.io/problems/lowest-common-ancestor-in-binary-search-tree/question) | ✅ |
 | Day 41| 2026-06-21 |Binary tree Traversal | Neetcode     | [Problem](https://neetcode.io/problems/level-order-traversal-of-binary-tree/question) | ✅ |
 | Day 42| 2026-06-22 |BT Right Side View | Neetcode     | [Problem](https://neetcode.io/problems/binary-tree-right-side-view/question) | ✅ |
-
+| Day 43| 2026-06-23 |Count Good Nodes in BT | Neetcode     | [Problem](https://neetcode.io/problems/count-good-nodes-in-binary-tree/question) | ✅ |
 
 
 
