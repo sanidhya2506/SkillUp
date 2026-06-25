@@ -53,7 +53,7 @@
 | Day 42| 2026-06-22 |BT Right Side View | Neetcode     | [Problem](https://neetcode.io/problems/binary-tree-right-side-view/question) | ✅ |
 | Day 43| 2026-06-23 |Count Good Nodes in BT | Neetcode     | [Problem](https://neetcode.io/problems/count-good-nodes-in-binary-tree/question) | ✅ |
 | Day 44| 2026-06-24 |Valid BST | Neetcode     | [Problem](https://neetcode.io/problems/valid-binary-search-tree/question) | ✅ |
-
+| Day 45| 2026-06-25 |Kth Smallest Integer in BST | Neetcode     | [Problem](https://neetcode.io/problems/kth-smallest-integer-in-bst/question) | ✅ |
 
 
 
