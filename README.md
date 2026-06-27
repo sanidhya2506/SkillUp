@@ -55,7 +55,7 @@
 | Day 44| 2026-06-24 |Valid BST | Neetcode     | [Problem](https://neetcode.io/problems/valid-binary-search-tree/question) | ✅ |
 | Day 45| 2026-06-25 |Kth Smallest Integer in BST | Neetcode     | [Problem](https://neetcode.io/problems/kth-smallest-integer-in-bst/question) | ✅ |
 | Day 46| 2026-06-26 |Construct BT from Preorder and Inorder Traversal| Neetcode     | [Problem](http://neetcode.io/problems/binary-tree-from-preorder-and-inorder-traversal/question) | ✅ |
-
+| Day 47| 2026-06-27 |Binary Tree Maximum Path Sum| Neetcode     | [Problem](https://neetcode.io/problems/binary-tree-maximum-path-sum/question) | ✅ |
 
 
 
