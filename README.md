@@ -57,7 +57,7 @@
 | Day 46| 2026-06-26 |Construct BT from Preorder and Inorder Traversal| Neetcode     | [Problem](http://neetcode.io/problems/binary-tree-from-preorder-and-inorder-traversal/question) | ✅ |
 | Day 47| 2026-06-27 |Binary Tree Maximum Path Sum| Neetcode     | [Problem](https://neetcode.io/problems/binary-tree-maximum-path-sum/question) | ✅ |
 | Day 48| 2026-06-28 |Serialize and Deserialize Binary Tree| Neetcode     | [Problem](http://neetcode.io/problems/serialize-and-deserialize-binary-tree/question) | ✅ |
-
+| Day 49| 2026-06-29|Number of Islands| Neetcode     | [Problem](https://neetcode.io/problems/count-number-of-islands/question) | ✅ |
 
 
 
