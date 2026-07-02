@@ -60,7 +60,7 @@
 | Day 49| 2026-06-29|Number of Islands| Neetcode     | [Problem](https://neetcode.io/problems/count-number-of-islands/question) | ✅ |
 | Day 50| 2026-06-30|Max Area of Island| Neetcode     | [Problem](https://neetcode.io/problems/max-area-of-island/question) | ✅ |
 | Day 51| 2026-07-1|Clone Graph| Neetcode     | [Problem](https://neetcode.io/problems/clone-graph/question) | ✅ |
-
+| Day 52| 2026-07-2|Islands and treasure| Neetcode     | [Problem](https://neetcode.io/problems/islands-and-treasure/question) | ✅ |
 
 
 
