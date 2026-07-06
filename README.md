@@ -64,7 +64,7 @@
 | Day 53| 2026-07-3|Rotten Oranges| Neetcode     | [Problem](https://neetcode.io/problems/rotting-fruit/question) | ✅ |
 | Day 54| 2026-07-4|Atlantic Ocean| Neetcode     | [Problem](https://neetcode.io/problems/pacific-atlantic-water-flow/question) | ✅ |
 | Day 55| 2026-07-5|Surrounded regions| Neetcode     | [Problem](https://neetcode.io/problems/surrounded-regions/question) | ✅ |
-
+| Day 56| 2026-07-6|Plus One| Neetcode     | [Problem](https://neetcode.io/problems/plus-one/question) | ✅ |
 
 
 
