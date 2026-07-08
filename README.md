@@ -66,7 +66,7 @@
 | Day 55| 2026-07-5|Surrounded regions| Neetcode     | [Problem](https://neetcode.io/problems/surrounded-regions/question) | ✅ |
 | Day 56| 2026-07-6|Plus One| Neetcode     | [Problem](https://neetcode.io/problems/plus-one/question) | ✅ |
 | Day 57| 2026-07-7|Course Schedule| Neetcode     | [Problem](https://neetcode.io/problems/course-schedule/question) | ✅ |
-
+| Day 58| 2026-07-8|Course Schedule-II| Neetcode     | [Problem](https://neetcode.io/problems/course-schedule-ii/question) | ✅ |
 
 
 
