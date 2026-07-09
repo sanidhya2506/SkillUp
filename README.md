@@ -67,7 +67,7 @@
 | Day 56| 2026-07-6|Plus One| Neetcode     | [Problem](https://neetcode.io/problems/plus-one/question) | ✅ |
 | Day 57| 2026-07-7|Course Schedule| Neetcode     | [Problem](https://neetcode.io/problems/course-schedule/question) | ✅ |
 | Day 58| 2026-07-8|Course Schedule-II| Neetcode     | [Problem](https://neetcode.io/problems/course-schedule-ii/question) | ✅ |
-
+| Day 59| 2026-07-9|Graph Valid Tree| Neetcode     | [Problem](https://neetcode.io/problems/valid-tree/question) | ✅ |
 
 
 
