@@ -70,7 +70,7 @@
 | Day 59| 2026-07-9|Graph Valid Tree| Neetcode     | [Problem](https://neetcode.io/problems/valid-tree/question) | ✅ |
 | Day 60| 2026-07-10|Number of Connected Components in an Undirected Graph| Neetcode     | [Problem](https://neetcode.io/problems/count-connected-components/question) | ✅ |
 | Day 61| 2026-07-11|Redundant Connection| Neetcode     | [Problem](https://neetcode.io/problems/redundant-connection/question) | ✅ |
-
+| Day 62| 2026-07-12|Word Ladder| Neetcode     | [Problem](http://neetcode.io/problems/word-ladder/question) | ✅ |
 
 
 
