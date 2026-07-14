@@ -72,7 +72,7 @@
 | Day 61| 2026-07-11|Redundant Connection| Neetcode     | [Problem](https://neetcode.io/problems/redundant-connection/question) | ✅ |
 | Day 62| 2026-07-12|Word Ladder| Neetcode     | [Problem](http://neetcode.io/problems/word-ladder/question) | ✅ |
 | Day 63| 2026-07-13|Happy Number| Neetcode     | [Problem](https://neetcode.io/problems/non-cyclical-number/question) | ✅ |
-
+| Day 64| 2026-07-14|Rotate Image| Neetcode     | [Problem](https://neetcode.io/problems/rotate-matrix/question) | ✅ |
 
 
 
