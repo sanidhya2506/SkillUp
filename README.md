@@ -74,7 +74,7 @@
 | Day 63| 2026-07-13|Happy Number| Neetcode     | [Problem](https://neetcode.io/problems/non-cyclical-number/question) | ✅ |
 | Day 64| 2026-07-14|Rotate Image| Neetcode     | [Problem](https://neetcode.io/problems/rotate-matrix/question) | ✅ |
 | Day 65| 2026-07-15|Spiral Matrix| Neetcode     | [Problem](https://neetcode.io/problems/spiral-matrix/question) | ✅ |
-
+| Day 66| 2026-07-16|Kth Largest Element| Neetcode     | [Problem](https://neetcode.io/problems/kth-largest-integer-in-a-stream/question) | ✅ |
 
 
 
