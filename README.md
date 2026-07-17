@@ -75,6 +75,7 @@
 | Day 64| 2026-07-14|Rotate Image| Neetcode     | [Problem](https://neetcode.io/problems/rotate-matrix/question) | ✅ |
 | Day 65| 2026-07-15|Spiral Matrix| Neetcode     | [Problem](https://neetcode.io/problems/spiral-matrix/question) | ✅ |
 | Day 66| 2026-07-16|Kth Largest Element| Neetcode     | [Problem](https://neetcode.io/problems/kth-largest-integer-in-a-stream/question) | ✅ |
+| Day 67| 2026-07-17|Last Stone Weight| Neetcode     | [Problem](https://neetcode.io/problems/last-stone-weight/question) | ✅ |
 
 
 
