@@ -78,6 +78,7 @@
 | Day 67| 2026-07-17|Last Stone Weight| Neetcode     | [Problem](https://neetcode.io/problems/last-stone-weight/question) | ✅ |
 | Day 68| 2026-07-18|K closest points| Neetcode     | [Problem](https://neetcode.io/problems/k-closest-points-to-origin/question) | ✅ |
 | Day 69| 2026-07-19|Kth Largest element | Neetcode     | [Problem](https://neetcode.io/problems/kth-largest-element-in-an-array/question) | ✅ |
+| Day 70| 2026-07-20|Task Scheduler | Neetcode     | [Problem](https://neetcode.io/problems/task-scheduling/question) | ✅ |
 
 
 
