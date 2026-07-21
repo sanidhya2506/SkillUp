@@ -79,7 +79,7 @@
 | Day 68| 2026-07-18|K closest points| Neetcode     | [Problem](https://neetcode.io/problems/k-closest-points-to-origin/question) | ✅ |
 | Day 69| 2026-07-19|Kth Largest element | Neetcode     | [Problem](https://neetcode.io/problems/kth-largest-element-in-an-array/question) | ✅ |
 | Day 70| 2026-07-20|Task Scheduler | Neetcode     | [Problem](https://neetcode.io/problems/task-scheduling/question) | ✅ |
-
+| Day 71| 2026-07-21|Design X | Neetcode     | [Problem](https://neetcode.io/problems/design-twitter-feed/question) | ✅ |
 
 
 
