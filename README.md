@@ -82,6 +82,7 @@
 | Day 71| 2026-07-21|Design X | Neetcode     | [Problem](https://neetcode.io/problems/design-twitter-feed/question) | ✅ |
 | Day 72| 2026-07-22|Data Stream| Neetcode     | [Problem](https://neetcode.io/problems/find-median-in-a-data-stream/question) | ✅ |
 | Day 73| 2026-07-23|Set Zero| Neetcode     | [Problem](http://neetcode.io/problems/set-zeroes-in-matrix/question) | ✅ |
+| Day 74| 2026-07-24|Pow| Neetcode     | [Problem](https://neetcode.io/problems/pow-x-n/question) | ✅ |
 
 
 
