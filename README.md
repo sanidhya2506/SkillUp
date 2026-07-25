@@ -83,7 +83,7 @@
 | Day 72| 2026-07-22|Data Stream| Neetcode     | [Problem](https://neetcode.io/problems/find-median-in-a-data-stream/question) | ✅ |
 | Day 73| 2026-07-23|Set Zero| Neetcode     | [Problem](http://neetcode.io/problems/set-zeroes-in-matrix/question) | ✅ |
 | Day 74| 2026-07-24|Pow| Neetcode     | [Problem](https://neetcode.io/problems/pow-x-n/question) | ✅ |
-
+| Day 75| 2026-07-25|Multiply Strings| Neetcode     | [Problem](https://neetcode.io/problems/multiply-strings/question) | ✅ |
 
 
 
