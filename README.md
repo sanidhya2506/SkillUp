@@ -84,7 +84,7 @@
 | Day 73| 2026-07-23|Set Zero| Neetcode     | [Problem](http://neetcode.io/problems/set-zeroes-in-matrix/question) | ✅ |
 | Day 74| 2026-07-24|Pow| Neetcode     | [Problem](https://neetcode.io/problems/pow-x-n/question) | ✅ |
 | Day 75| 2026-07-25|Multiply Strings| Neetcode     | [Problem](https://neetcode.io/problems/multiply-strings/question) | ✅ |
-
+| Day 76| 2026-07-26|Detect squares| Neetcode     | [Problem](https://neetcode.io/problems/count-squares/question) | ✅ |
 
 
 
