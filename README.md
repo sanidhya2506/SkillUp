@@ -87,7 +87,7 @@
 | Day 76| 2026-07-26|Detect squares| Neetcode     | [Problem](https://neetcode.io/problems/count-squares/question) | ✅ |
 | Day 77| 2026-07-27|Implement Trie| Neetcode     | [Problem](https://neetcode.io/problems/implement-prefix-tree/question) | ✅ |
 | Day 78| 2026-07-28|Design add & search ds| Neetcode     | [Problem](https://neetcode.io/problems/design-word-search-data-structure/question) | ✅ |
-
+| Day 79| 2026-07-29|Word SearchII| Neetcode     | [Problem](https://neetcode.io/problems/search-for-word-ii/question) | ✅ |
 
 
 
