@@ -88,8 +88,8 @@
 | Day 77| 2026-07-27|Implement Trie| Neetcode     | [Problem](https://neetcode.io/problems/implement-prefix-tree/question) | ✅ |
 | Day 78| 2026-07-28|Design add & search ds| Neetcode     | [Problem](https://neetcode.io/problems/design-word-search-data-structure/question) | ✅ |
 | Day 79| 2026-07-29|Word SearchII| Neetcode     | [Problem](https://neetcode.io/problems/search-for-word-ii/question) | ✅ |
-| Day 80| 2026-07-30|Design add and seach| Neetcode     | [Problem](https://neetcode.io/problems/design-word-search-data-structure/question) | ✅ |
-
+| Day 80| 2026-07-30|Design add and search| Neetcode     | [Problem](https://neetcode.io/problems/design-word-search-data-structure/question) | ✅ |
+| Day 81| 2026-07-31|Subsets| Neetcode     | [Problem](https://neetcode.io/problems/subsets/question) | ✅ |
 
 
 
