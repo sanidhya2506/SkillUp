@@ -91,7 +91,7 @@
 | Day 80| 2026-07-30|Design add and search| Neetcode     | [Problem](https://neetcode.io/problems/design-word-search-data-structure/question) | ✅ |
 | Day 81| 2026-07-31|Subsets| Neetcode     | [Problem](https://neetcode.io/problems/subsets/question) | ✅ |
 | Day 82| 2026-08-01|Combinations Sum II| Neetcode     | [Problem](https://neetcode.io/problems/combination-target-sum-ii/question) | ✅ |
-
+| Day 83| 2026-08-02|Combinations Sum| Neetcode     | [Problem](https://neetcode.io/problems/combination-target-sum/question) | ✅ |
 
 
 
