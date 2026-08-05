@@ -1,4 +1,4 @@
-👤 **My NeetCode Profile**: [Sanidhya on Neetcode](https://neetcode.io/profile)
+👤 **My NeetCode Profile**: [Sanidhya on Neetcode](https://neetcode.io/user/AgileCipher650)
 
 ## 📅 Daily Log
 
@@ -94,7 +94,7 @@
 | Day 83| 2026-08-02|Combinations Sum| Neetcode     | [Problem](https://neetcode.io/problems/combination-target-sum/question) | ✅ |
 | Day 84| 2026-08-03|Permutations| Neetcode     | [Problem](https://neetcode.io/problems/permutations/question) | ✅ |
 | Day 85| 2026-08-04|Subset II| Neetcode     | [Problem](https://neetcode.io/problems/subsets-ii/question) | ✅ |
-
+| Day 86| 2026-08-05|Generate Parentheses| Neetcode     | [Problem](https://neetcode.io/problems/generate-parentheses/question) | ✅ |
 
 
 
