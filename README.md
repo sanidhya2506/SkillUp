@@ -95,7 +95,7 @@
 | Day 84| 2026-08-03|Permutations| Neetcode     | [Problem](https://neetcode.io/problems/permutations/question) | ✅ |
 | Day 85| 2026-08-04|Subset II| Neetcode     | [Problem](https://neetcode.io/problems/subsets-ii/question) | ✅ |
 | Day 86| 2026-08-05|Generate Parentheses| Neetcode     | [Problem](https://neetcode.io/problems/generate-parentheses/question) | ✅ |
-
+| Day 87| 2026-08-06|Word Search| Neetcode     | [Problem](https://neetcode.io/problems/search-for-word/question) | ✅ |
 
 
 
