@@ -101,7 +101,7 @@
 | Day 90| 2026-08-09|N-Queens| Neetcode     | [Problem](https://neetcode.io/problems/n-queens/question) | ✅ |
 | Day 91| 2026-08-10|Network Delay| Neetcode     | [Problem](https://neetcode.io/problems/network-delay-time/question) | ✅ |
 | Day 92| 2026-08-11|Reconstruct Flight Path| Neetcode     | [Problem](https://neetcode.io/problems/reconstruct-flight-path/question) | ✅ |
-
+| Day 93| 2026-08-12|Min cost to connect points| Neetcode     | [Problem](https://neetcode.io/problems/min-cost-to-connect-points/question) | ✅ |
 
 
 
