@@ -103,8 +103,8 @@
 | Day 92| 2026-08-11|Reconstruct Flight Path| Neetcode     | [Problem](https://neetcode.io/problems/reconstruct-flight-path/question) | ✅ |
 | Day 93| 2026-08-12|Min cost to connect points| Neetcode     | [Problem](https://neetcode.io/problems/min-cost-to-connect-points/question) | ✅ |
 | Day 94| 2026-08-13|Swin in Rising Water| Neetcode     | [Problem](https://neetcode.io/problems/swim-in-rising-water/question) | ✅ |
-| Day 95| 2026-08-14|Alien Dictiionary| Neetcode     | [Problem](https://neetcode.io/problems/foreign-dictionary/question) | ✅ |
-
+| Day 95| 2026-08-14|Alien Dictionary| Neetcode     | [Problem](https://neetcode.io/problems/foreign-dictionary/question) | ✅ |
+| Day 96| 2026-08-15|Cheapest Flights| Neetcode     | [Problem](https://neetcode.io/problems/cheapest-flight-path/question) | ✅ |
 
 
 
