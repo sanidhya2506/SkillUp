@@ -106,7 +106,7 @@
 | Day 95| 2026-08-14|Alien Dictionary| Neetcode     | [Problem](https://neetcode.io/problems/foreign-dictionary/question) | ✅ |
 | Day 96| 2026-08-15|Cheapest Flights| Neetcode     | [Problem](https://neetcode.io/problems/cheapest-flight-path/question) | ✅ |
 | Day 97| 2026-08-16|Climbings Stairs| Neetcode     | [Problem](https://neetcode.io/problems/climbing-stairs/question) | ✅ |
-
+| Day 98| 2026-08-17|Min Cost Climbing Stairs| Neetcode     | [Problem](https://neetcode.io/problems/min-cost-climbing-stairs/question) | ✅ |
 
 
 
