@@ -115,3 +115,4 @@
 | Day 104| 2026-08-23|Coin Change| Neetcode     | [Problem](https://neetcode.io/problems/coin-change/question) | ✅ |
 | Day 105| 2026-08-24|Maximum Product Subarray| Neetcode     | [Problem](https://neetcode.io/problems/maximum-product-subarray/question) | ✅ |
 | Day 106| 2026-08-25|Word Break| Neetcode     | [Problem](https://neetcode.io/problems/word-break/question) | ✅ |
+| Day 107| 2026-08-26|Longest Increasing Subsequence| Neetcode     | [Problem](https://neetcode.io/problems/longest-increasing-subsequence/question) | ✅ |
