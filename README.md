@@ -118,7 +118,7 @@
 | Day 107| 2026-08-26|Longest Increasing Subsequence| Neetcode     | [Problem](https://neetcode.io/problems/longest-increasing-subsequence/question) | ✅ |
 | Day 108| 2026-08-27|Partition Equal| Neetcode     | [Problem](https://neetcode.io/problems/partition-equal-subset-sum/question) | ✅ |
 | Day 109| 2026-08-28|Unique Path| Neetcode     | [Problem](https://neetcode.io/problems/count-paths/question) | ✅ |
-
+| Day 110| 2026-08-29|LCS| Neetcode     | [Problem](https://neetcode.io/problems/longest-common-subsequence/question) | ✅ |
 
 
 
