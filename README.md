@@ -120,7 +120,7 @@
 | Day 109| 2026-08-28|Unique Path| Neetcode     | [Problem](https://neetcode.io/problems/count-paths/question) | ✅ |
 | Day 110| 2026-08-29|LCS| Neetcode     | [Problem](https://neetcode.io/problems/longest-common-subsequence/question) | ✅ |
 | Day 111| 2026-08-30|Best Time to buy and sell| Neetcode     | [Problem](https://neetcode.io/problems/buy-and-sell-crypto-with-cooldown/question) | ✅ |
-
+| Day 112| 2026-08-31|Coin II| Neetcode     | [Problem](https://neetcode.io/problems/coin-change-ii/question) | ✅ |
 
 
 
