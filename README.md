@@ -123,6 +123,7 @@
 | Day 112| 2026-08-31|Coin II| Neetcode     | [Problem](https://neetcode.io/problems/coin-change-ii/question) | ✅ |
 | Day 113| 2026-09-01|target Sum| Neetcode     | [Problem](https://neetcode.io/problems/target-sum/question) | ✅ |
 | Day 114| 2026-09-02|Interleaving String| Neetcode     | [Problem](https://neetcode.io/problems/interleaving-string/question) | ✅ |
+| Day 115| 2026-09-03|Longest Path| Neetcode     | [Problem](https://neetcode.io/problems/longest-increasing-path-in-matrix/question) | ✅ |
 
 
 
