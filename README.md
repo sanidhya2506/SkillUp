@@ -124,7 +124,7 @@
 | Day 113| 2026-09-01|target Sum| Neetcode     | [Problem](https://neetcode.io/problems/target-sum/question) | ✅ |
 | Day 114| 2026-09-02|Interleaving String| Neetcode     | [Problem](https://neetcode.io/problems/interleaving-string/question) | ✅ |
 | Day 115| 2026-09-03|Longest Path| Neetcode     | [Problem](https://neetcode.io/problems/longest-increasing-path-in-matrix/question) | ✅ |
-
+| Day 116| 2026-09-04|Distinct Subsequences| Neetcode     | [Problem](https://neetcode.io/problems/count-subsequences/question) | ✅ |
 
 
 
