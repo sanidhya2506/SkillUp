@@ -127,7 +127,7 @@
 | Day 116| 2026-09-04|Distinct Subsequences| Neetcode     | [Problem](https://neetcode.io/problems/count-subsequences/question) | ✅ |
 | Day 117| 2026-09-05|Edit Distance| Neetcode     | [Problem](https://neetcode.io/problems/edit-distance/question) | ✅ |
 | Day 118| 2026-09-06|Brust Balloons| Neetcode     | [Problem](https://neetcode.io/problems/burst-balloons/question) | ✅ |
-
+| Day 119| 2026-09-07|Regluar Expressions| Neetcode     | [Problem](https://neetcode.io/problems/regular-expression-matching/question) | ✅ |
 
 
 
