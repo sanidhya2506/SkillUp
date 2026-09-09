@@ -128,8 +128,8 @@
 | Day 117| 2026-09-05|Edit Distance| Neetcode     | [Problem](https://neetcode.io/problems/edit-distance/question) | ✅ |
 | Day 118| 2026-09-06|Brust Balloons| Neetcode     | [Problem](https://neetcode.io/problems/burst-balloons/question) | ✅ |
 | Day 119| 2026-09-07|Regluar Expressions| Neetcode     | [Problem](https://neetcode.io/problems/regular-expression-matching/question) | ✅ |
-| Day 120| 2026-09-0|Maximum Subarray| Neetcode     | [Problem](https://neetcode.io/problems/maximum-subarray/question) | ✅ |
-
+| Day 120| 2026-09-08|Maximum Subarray| Neetcode     | [Problem](https://neetcode.io/problems/maximum-subarray/question) | ✅ |
+| Day 121| 2026-09-09|Jump Game| Neetcode     | [Problem](https://neetcode.io/problems/jump-game/question) | ✅ |
 
 
 
