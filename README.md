@@ -131,7 +131,7 @@
 | Day 120| 2026-09-08|Maximum Subarray| Neetcode     | [Problem](https://neetcode.io/problems/maximum-subarray/question) | ✅ |
 | Day 121| 2026-09-09|Jump Game| Neetcode     | [Problem](https://neetcode.io/problems/jump-game/question) | ✅ |
 | Day 122| 2026-09-10|Jump Game II| Neetcode     | [Problem](https://neetcode.io/problems/jump-game-ii/question) | ✅ |
-
+| Day 123| 2026-09-11|Gas Stations| Neetcode     | [Problem](https://neetcode.io/problems/gas-station/question) | ✅ |
 
 
 
