@@ -133,7 +133,7 @@
 | Day 122| 2026-09-10|Jump Game II| Neetcode     | [Problem](https://neetcode.io/problems/jump-game-ii/question) | ✅ |
 | Day 123| 2026-09-11|Gas Stations| Neetcode     | [Problem](https://neetcode.io/problems/gas-station/question) | ✅ |
 | Day 124| 2026-09-12|Hands of Straights| Neetcode     | [Problem](https://neetcode.io/problems/hand-of-straights/question) | ✅ |
-
+| Day 125| 2026-09-13|Merge triplets| Neetcode     | [Problem](https://neetcode.io/problems/merge-triplets-to-form-target/question) | ✅ |
 
 
 
