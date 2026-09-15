@@ -134,8 +134,8 @@
 | Day 123| 2026-09-11|Gas Stations| Neetcode     | [Problem](https://neetcode.io/problems/gas-station/question) | ✅ |
 | Day 124| 2026-09-12|Hands of Straights| Neetcode     | [Problem](https://neetcode.io/problems/hand-of-straights/question) | ✅ |
 | Day 125| 2026-09-13|Merge triplets| Neetcode     | [Problem](https://neetcode.io/problems/merge-triplets-to-form-target/question) | ✅ |
-| Day 126| 2026-09-14|Partition Labels| Neetcode     | [Problem](https://neetcode.io/problems/partition-labels/history?list=neetcode150&submissionIndex=0) | ✅ |
-
+| Day 126| 2026-09-14|Partition Labels| Neetcode     | [Problem](https://neetcode.io/problems/partition-labels/question) | ✅ |
+| Day 127| 2026-09-15|Valid Parenthesis string| Neetcode     | [Problem](https://neetcode.io/problems/valid-parenthesis-string/questions) | ✅ |
 
 
 
