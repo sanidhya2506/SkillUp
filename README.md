@@ -137,7 +137,7 @@
 | Day 126| 2026-09-14|Partition Labels| Neetcode     | [Problem](https://neetcode.io/problems/partition-labels/question) | ✅ |
 | Day 127| 2026-09-15|Valid Parenthesis string| Neetcode     | [Problem](https://neetcode.io/problems/valid-parenthesis-string/questions) | ✅ |
 | Day 128| 2026-09-16|Insert Intervals| Neetcode     | [Problem](https://neetcode.io/problems/insert-new-interval/questions) | ✅ |
-
+| Day 129| 2026-09-17|Merge Intervals| Neetcode     | [Problem](https://neetcode.io/problems/merge-intervals/questions) | ✅ |
 
 
 
