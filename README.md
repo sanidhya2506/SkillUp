@@ -140,7 +140,7 @@
 | Day 129| 2026-09-17|Merge Intervals| Neetcode     | [Problem](https://neetcode.io/problems/merge-intervals/questions) | ✅ |
 | Day 130| 2026-09-18|Non overlapping| Neetcode     | [Problem](https://neetcode.io/problems/non-overlapping-intervals/questions) | ✅ |
 | Day 131| 2026-09-19|Metting Rooms| Neetcode     | [Problem](https://neetcode.io/problems/meeting-schedule/questions) | ✅ |
-
+| Day 132| 2026-09-20|Metting Rooms II| Neetcode     | [Problem](https://neetcode.io/problems/meeting-schedule-ii/questions) | ✅ |
 
 
 
