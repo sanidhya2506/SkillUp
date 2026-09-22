@@ -142,7 +142,7 @@
 | Day 131| 2026-09-19|Metting Rooms| Neetcode     | [Problem](https://neetcode.io/problems/meeting-schedule/questions) | ✅ |
 | Day 132| 2026-09-20|Metting Rooms II| Neetcode     | [Problem](https://neetcode.io/problems/meeting-schedule-ii/questions) | ✅ |
 | Day 133| 2026-09-21|Minimum Intervals| Neetcode     | [Problem](https://neetcode.io/problems/minimum-interval-including-query/questions) | ✅ |
-
+| Day 134| 2026-09-22|Single Number| Neetcode     | [Problem](https://neetcode.io/problems/single-number/question) | ✅ |
 
 
 
