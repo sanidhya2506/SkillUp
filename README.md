@@ -144,7 +144,7 @@
 | Day 133| 2026-09-21|Minimum Intervals| Neetcode     | [Problem](https://neetcode.io/problems/minimum-interval-including-query/questions) | ✅ |
 | Day 134| 2026-09-22|Single Number| Neetcode     | [Problem](https://neetcode.io/problems/single-number/question) | ✅ |
 | Day 135| 2026-09-23|Number of 1's Bits| Neetcode     | [Problem](https://neetcode.io/problems/number-of-one-bits/question) | ✅ |
-
+| Day 136| 2026-09-24|Counting Bits| Neetcode     | [Problem](https://neetcode.io/problems/counting-bits/question) | ✅ |
 
 
 
