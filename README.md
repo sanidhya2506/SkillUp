@@ -148,6 +148,8 @@
 | Day 137| 2026-09-25|Reverse Bits| Neetcode     | [Problem](https://neetcode.io/problems/reverse-bits/question) | ✅ |
 | Day 138| 2026-09-26|Missing Number| Neetcode     | [Problem](https://neetcode.io/problems/missing-number/question) | ✅ |
 | Day 139| 2026-09-27|Sum of 2 INT| Neetcode     | [Problem](https://neetcode.io/problems/sum-of-two-integers/question) | ✅ |
+| Day 140| 2026-09-28|Reverse Integer| Neetcode     | [Problem](https://neetcode.io/problems/reverse-integer/question) | ✅ |
+
 
 
 
