@@ -150,6 +150,7 @@
 | Day 139| 2026-09-27|Sum of 2 INT| Neetcode     | [Problem](https://neetcode.io/problems/sum-of-two-integers/question) | ✅ |
 | Day 140| 2026-09-28|Reverse Integer| Neetcode     | [Problem](https://neetcode.io/problems/reverse-integer/question) | ✅ |
 | Day 141| 2026-09-29|Concatenation of Array| Neetcode     | [Problem](https://neetcode.io/problems/concatenation-of-array/question) | ✅ |
+| Day 142| 2026-09-30|LOngest common prefix| Neetcode     | [Problem](https://neetcode.io/problems/longest-common-prefix/question) | ✅ |
 
 
 
