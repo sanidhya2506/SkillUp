@@ -151,7 +151,7 @@
 | Day 140| 2026-09-28|Reverse Integer| Neetcode     | [Problem](https://neetcode.io/problems/reverse-integer/question) | ✅ |
 | Day 141| 2026-09-29|Concatenation of Array| Neetcode     | [Problem](https://neetcode.io/problems/concatenation-of-array/question) | ✅ |
 | Day 142| 2026-09-30|LOngest common prefix| Neetcode     | [Problem](https://neetcode.io/problems/longest-common-prefix/question) | ✅ |
-
+| Day 143| 2026-10-1|Remove Element| Neetcode     | [Problem](https://neetcode.io/problems/remove-element/question) | ✅ |
 
 
 
