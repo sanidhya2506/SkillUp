@@ -153,6 +153,7 @@
 | Day 142| 2026-09-30|LOngest common prefix| Neetcode     | [Problem](https://neetcode.io/problems/longest-common-prefix/question) | ✅ |
 | Day 143| 2026-10-1|Remove Element| Neetcode     | [Problem](https://neetcode.io/problems/remove-element/question) | ✅ |
 | Day 144| 2026-10-2|Majority Element| Neetcode     | [Problem](https://neetcode.io/problems/majority-element/question) | ✅ |
+| Day 145| 2026-10-3|Design HashSet| Neetcode     | [Problem](https://neetcode.io/problems/design-hashset/question) | ✅ |
 
 
 
