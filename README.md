@@ -155,7 +155,7 @@
 | Day 144| 2026-10-2|Majority Element| Neetcode     | [Problem](https://neetcode.io/problems/majority-element/question) | ✅ |
 | Day 145| 2026-10-3|Design HashSet| Neetcode     | [Problem](https://neetcode.io/problems/design-hashset/question) | ✅ |
 | Day 146| 2026-10-4|Sort Color| Neetcode     | [Problem](https://neetcode.io/problems/sort-colors/question) | ✅ |
-
+| Day 147| 2026-10-5|Reverse String| Neetcode     | [Problem](https://neetcode.io/problems/reverse-string/question) | ✅ |
 
 
 
