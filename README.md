@@ -156,6 +156,7 @@
 | Day 145| 2026-10-3|Design HashSet| Neetcode     | [Problem](https://neetcode.io/problems/design-hashset/question) | ✅ |
 | Day 146| 2026-10-4|Sort Color| Neetcode     | [Problem](https://neetcode.io/problems/sort-colors/question) | ✅ |
 | Day 147| 2026-10-5|Reverse String| Neetcode     | [Problem](https://neetcode.io/problems/reverse-string/question) | ✅ |
+| Day 14|8 2026-10-6|Best Time to buy and sell| Neetcode     | [Problem](https://neetcode.io/problems/best-time-to-buy-and-sell-stock-ii/question) | ✅ |
 
 
 
