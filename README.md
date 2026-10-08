@@ -158,6 +158,6 @@
 | Day 147| 2026-10-5|Reverse String| Neetcode     | [Problem](https://neetcode.io/problems/reverse-string/question) | ✅ |
 | Day 148| 2026-10-6|Best Time to buy and sell| Neetcode     | [Problem](https://neetcode.io/problems/best-time-to-buy-and-sell-stock-ii/question) | ✅ |
 | Day 149| 2026-10-7|Majority Element II| Neetcode     | [Problem](https://neetcode.io/problems/majority-element-ii/question) | ✅ |
-
+| Day 150| 2026-10-8|First missing| Neetcode     | [Problem](https://neetcode.io/problems/first-missing-positive/question) | ✅ |
 
 
