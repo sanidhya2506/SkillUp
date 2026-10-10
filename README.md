@@ -160,4 +160,4 @@
 | Day 149| 2026-10-7|Majority Element II| Neetcode     | [Problem](https://neetcode.io/problems/majority-element-ii/question) | ✅ |
 | Day 150| 2026-10-8|First missing| Neetcode     | [Problem](https://neetcode.io/problems/first-missing-positive/question) | ✅ |
 | Day 151| 2026-10-9|Subarray Sum| Neetcode     | [Problem](https://neetcode.io/problems/subarray-sum-equals-k/question) | ✅ |
-
+| Day 152| 2026-10-10|Design HashMap| Neetcode     | [Problem](https://neetcode.io/problems/design-hashmap/question) | ✅ |
