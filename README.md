@@ -162,6 +162,7 @@
 | Day 151| 2026-10-9|Subarray Sum| Neetcode     | [Problem](https://neetcode.io/problems/subarray-sum-equals-k/question) | ✅ |
 | Day 152| 2026-10-10|Design HashMap| Neetcode     | [Problem](https://neetcode.io/problems/design-hashmap/question) | ✅ |
 | Day 153| 2026-10-11|Range Sum query 2D| Neetcode     | [Problem](https://neetcode.io/problems/range-sum-query-2d-immutable/question) | ✅ |
+| Day 154| 2026-10-12|Unique in array| Neetcode     | [Problem](https://neetcode.io/problems/remove-duplicates-from-sorted-array/question) | ✅ |
 
 
 
