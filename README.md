@@ -165,7 +165,7 @@
 | Day 154| 2026-10-12|Unique in array| Neetcode     | [Problem](https://neetcode.io/problems/remove-duplicates-from-sorted-array/question) | ✅ |
 | Day 155| 2026-10-13|Roatate array| Neetcode     | [Problem](https://neetcode.io/problems/rotate-array/question) | ✅ |
 | Day 156| 2026-10-14|queue using stack| Neetcode     | [Problem](https://neetcode.io/problems/implement-queue-using-stacks/question) | ✅ |
-
+| Day 157| 2026-10-15|Search position| Neetcode     | [Problem](https://neetcode.io/problems/search-insert-position/question) | ✅ |
 
 
 
