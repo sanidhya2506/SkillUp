@@ -166,7 +166,7 @@
 | Day 155| 2026-10-13|Roatate array| Neetcode     | [Problem](https://neetcode.io/problems/rotate-array/question) | ✅ |
 | Day 156| 2026-10-14|queue using stack| Neetcode     | [Problem](https://neetcode.io/problems/implement-queue-using-stacks/question) | ✅ |
 | Day 157| 2026-10-15|Search position| Neetcode     | [Problem](https://neetcode.io/problems/search-insert-position/question) | ✅ |
-
+| Day 158| 2026-10-16|Boats to save| Neetcode     | [Problem](https://neetcode.io/problems/boats-to-save-people/question) | ✅ |
 
 
 
