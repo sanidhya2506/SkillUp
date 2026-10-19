@@ -169,7 +169,7 @@
 | Day 158| 2026-10-16|Boats to save| Neetcode     | [Problem](https://neetcode.io/problems/boats-to-save-people/question) | ✅ |
 | Day 159| 2026-10-17|Island Perimeter| Neetcode     | [Problem](https://neetcode.io/problems/island-perimeter/question) | ✅ |
 | Day 160| 2026-10-18|Valid Palindrome II| Neetcode     | [Problem](https://neetcode.io/problems/valid-palindrome-ii/question) | ✅ |
-
+| Day 161| 2026-10-19|4sum| Neetcode     | [Problem](https://neetcode.io/problems/4sum/question) | ✅ |
 
 
 
