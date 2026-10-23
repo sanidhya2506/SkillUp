@@ -173,7 +173,7 @@
 | Day 162| 2026-10-20|Merge Strings| Neetcode     | [Problem](https://neetcode.io/problems/merge-strings-alternately/question) | ✅ |
 | Day 163| 2026-10-21|Merge sorted array| Neetcode     | [Problem](https://neetcode.io/problems/merge-sorted-array/question) | ✅ |
 | Day 164| 2026-10-22|Contains Duplicates| Neetcode     | [Problem](https://neetcode.io/problems/contains-duplicate-ii/question) | ✅ |
-
+| Day 165| 2026-10-23|Min Size Subarray| Neetcode     | [Problem](https://neetcode.io/problems/minimum-size-subarray-sum/question) | ✅ |
 
 
 
