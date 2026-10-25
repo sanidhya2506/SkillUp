@@ -175,7 +175,7 @@
 | Day 164| 2026-10-22|Contains Duplicates| Neetcode     | [Problem](https://neetcode.io/problems/contains-duplicate-ii/question) | ✅ |
 | Day 165| 2026-10-23|Min Size Subarray| Neetcode     | [Problem](https://neetcode.io/problems/minimum-size-subarray-sum/question) | ✅ |
 | Day 166| 2026-10-24|FInd K closest Element| Neetcode     | [Problem](https://neetcode.io/problems/find-k-closest-elements/question) | ✅ |
-
+| Day 167| 2026-10-25|Guess Number| Neetcode     | [Problem](https://neetcode.io/problems/guess-number-higher-or-lower/question) | ✅ |
 
 
 
