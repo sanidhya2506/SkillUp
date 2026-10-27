@@ -177,5 +177,5 @@
 | Day 166| 2026-10-24|FInd K closest Element| Neetcode     | [Problem](https://neetcode.io/problems/find-k-closest-elements/question) | ✅ |
 | Day 167| 2026-10-25|Guess Number| Neetcode     | [Problem](https://neetcode.io/problems/guess-number-higher-or-lower/question) | ✅ |
 | Day 168| 2026-10-26|Capacity of Ship| Neetcode     | [Problem](https://neetcode.io/problems/capacity-to-ship-packages-within-d-days/question) | ✅ |
-
+| Day 169| 2026-10-27|Sqrt(x)| Neetcode     | [Problem](https://neetcode.io/problems/sqrtx/question) | ✅ |
 
