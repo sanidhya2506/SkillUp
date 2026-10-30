@@ -180,3 +180,10 @@
 | Day 169| 2026-10-27|Sqrt(x)| Neetcode     | [Problem](https://neetcode.io/problems/sqrtx/question) | ✅ |
 | Day 170| 2026-10-28|search in Rotated Sorted Array| Neetcode     | [Problem](https://neetcode.io/problems/search-in-rotated-sorted-array-ii/question) | ✅ |
 | Day 171| 2026-10-29|Split Array Largest Sum| Neetcode     | [Problem](https://neetcode.io/problems/split-array-largest-sum/question) | ✅ |
+| Day 172| 2026-10-30|Mountain of Array| Neetcode     | [Problem](https://neetcode.io/problems/find-in-mountain-array/question) | ✅ |
+
+
+
+
+
+
