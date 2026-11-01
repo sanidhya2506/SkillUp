@@ -182,7 +182,7 @@
 | Day 171| 2026-10-29|Split Array Largest Sum| Neetcode     | [Problem](https://neetcode.io/problems/split-array-largest-sum/question) | ✅ |
 | Day 172| 2026-10-30|Mountain of Array| Neetcode     | [Problem](https://neetcode.io/problems/find-in-mountain-array/question) | ✅ |
 | Day 173| 2026-10-31|Reverse LL II| Neetcode     | [Problem](https://neetcode.io/problems/reverse-linked-list-ii/question) | ✅ |
-
+| Day 174| 2026-11-1|Design Circular Queue | Neetcode     | [Problem](https://neetcode.io/problems/design-circular-queue/question) | ✅ |
 
 
 
