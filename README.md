@@ -185,5 +185,6 @@
 | Day 174| 2026-11-01|Design Circular Queue | Neetcode     | [Problem](https://neetcode.io/problems/design-circular-queue/question) | ✅ |
 | Day 175| 2026-11-02|LFU Cache | Neetcode     | [Problem](https://neetcode.io/problems/lfu-cache/question) | ✅ |
 | Day 176| 2026-11-03|BaseBall Game | Neetcode     | [Problem](https://neetcode.io/problems/baseball-game/question) | ✅ |
+| Day 177| 2026-11-04|Implement stack using queue | Neetcode     | [Problem](https://neetcode.io/problems/implement-stack-using-queues/question) | ✅ |
 
 
