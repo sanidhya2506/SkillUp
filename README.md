@@ -184,7 +184,7 @@
 | Day 173| 2026-10-31|Reverse LL II| Neetcode     | [Problem](https://neetcode.io/problems/reverse-linked-list-ii/question) | ✅ |
 | Day 174| 2026-11-01|Design Circular Queue | Neetcode     | [Problem](https://neetcode.io/problems/design-circular-queue/question) | ✅ |
 | Day 175| 2026-11-02|LFU Cache | Neetcode     | [Problem](https://neetcode.io/problems/lfu-cache/question) | ✅ |
-| Day 176| 2026-11-03|BaseBall Game | Neetcode     | [Problem](https://neetcode.io/problems/baseball-game/question) | ✅ |
+| Day 176| 2026-11-03|BaseBall Game | Neetcode     | [Problem](https://neetcode.io/problems/baseball-gamequestion) | ✅ |
 | Day 177| 2026-11-04|Implement stack using queue | Neetcode     | [Problem](https://neetcode.io/problems/implement-stack-using-queues/question) | ✅ |
 | Day 178| 2026-11-05|Asteriod Collision | Neetcode     | [Problem](https://neetcode.io/problems/asteroid-collision/question) | ✅ |
-
+| Day 179| 2026-11-06|Online Stock Span | Neetcode     | [Problem](https://neetcode.io/problems/online-stock-span/question) | ✅ |
