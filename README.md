@@ -189,3 +189,8 @@
 | Day 178| 2026-11-05|Asteriod Collision | Neetcode     | [Problem](https://neetcode.io/problems/asteroid-collision/question) | ✅ |
 | Day 179| 2026-11-06|Online Stock Span | Neetcode     | [Problem](https://neetcode.io/problems/online-stock-span/question) | ✅ |
 | Day 180| 2026-11-7|Simplify Path | Neetcode     | [Problem](https://neetcode.io/problems/simplify-path/question) | ✅ |
+| Day 180| 2026-11-8|Decode String | Neetcode     | [Problem](https://neetcode.io/problems/decode-string/question) | ✅ |
+
+
+
+
