@@ -191,6 +191,6 @@
 | Day 180| 2026-11-7|Simplify Path | Neetcode     | [Problem](https://neetcode.io/problems/simplify-path/question) | ✅ |
 | Day 180| 2026-11-8|Decode String | Neetcode     | [Problem](https://neetcode.io/problems/decode-string/question) | ✅ |
 | Day 181| 2026-11-9|Maximum Freq in Stack | Neetcode     | [Problem](https://neetcode.io/problems/maximum-frequency-stack/question) | ✅ |
-
+| Day 182| 2026-11-10|Simplify Path | Neetcode     | [Problem](https://neetcode.io/problems/simplify-path/question) | ✅ |
 
 
