@@ -194,4 +194,4 @@
 | Day 182| 2026-11-10|Simplify Path | Neetcode     | [Problem](https://neetcode.io/problems/simplify-path/question) | ✅ |
 | Day 183| 2026-11-11|Inorder Traversal | Neetcode     | [Problem](https://neetcode.io/problems/binary-tree-inorder-traversal/question) | ✅ |
 | Day 184| 2026-11-12|Delete Node in BST | Neetcode     | [Problem](https://neetcode.io/problems/delete-node-in-a-bst/question) | ✅ |
-
+| Day 185| 2026-11-13|Reverse sublist in LL | Neetcode     | [Problem](https://www.geeksforgeeks.org/problems/reverse-a-sublist-of-a-linked-list/1/question) | ✅ |
