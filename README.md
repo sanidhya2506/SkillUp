@@ -201,3 +201,4 @@
 | Day 189| 2026-11-17|Sum of all Subsets  | Neetcode     | [Problem](https://neetcode.io/problems/sum-of-all-subset-xor-totals/question) | ✅ |
 | Day 190| 2026-11-18|Combinations  | Neetcode     | [Problem](https://neetcode.io/problems/combinations/question) | ✅ |
 | Day 191| 2026-11-19|PErmutations II | Neetcode     | [Problem](https://neetcode.io/problems/permutations-ii/question) | ✅ |
+| Day 192| 2026-11-20|Single Threaded CPU | Neetcode     | [Problem](https://neetcode.io/problems/single-threaded-cpu/question) | ✅ |
