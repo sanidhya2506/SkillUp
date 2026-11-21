@@ -202,3 +202,4 @@
 | Day 190| 2026-11-18|Combinations  | Neetcode     | [Problem](https://neetcode.io/problems/combinations/question) | ✅ |
 | Day 191| 2026-11-19|PErmutations II | Neetcode     | [Problem](https://neetcode.io/problems/permutations-ii/question) | ✅ |
 | Day 192| 2026-11-20|Single Threaded CPU | Neetcode     | [Problem](https://neetcode.io/problems/single-threaded-cpu/question) | ✅ |
+| Day 193| 2026-11-21|Matchsticks in Square | Neetcode     | [Problem](https://neetcode.io/problems/matchsticks-to-square/question) | ✅ |
