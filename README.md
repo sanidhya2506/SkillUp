@@ -204,3 +204,4 @@
 | Day 192| 2026-11-20|Single Threaded CPU | Neetcode     | [Problem](https://neetcode.io/problems/single-threaded-cpu/question) | ✅ |
 | Day 193| 2026-11-21|Matchsticks in Square | Neetcode     | [Problem](https://neetcode.io/problems/matchsticks-to-square/question) | ✅ |
 | Day 194| 2026-11-22|Partition to K equal Sum | Neetcode     | [Problem](https://neetcode.io/problems/partition-to-k-equal-sum-subsets/question) | ✅ |
+| Day 195| 2026-11-23|n-Queens II | Neetcode     | [Problem](https://neetcode.io/problems/n-queens-ii/question) | ✅ |
