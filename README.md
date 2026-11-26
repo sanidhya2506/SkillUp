@@ -207,3 +207,4 @@
 | Day 195| 2026-11-23|n-Queens II | Neetcode     | [Problem](https://neetcode.io/problems/n-queens-ii/question) | ✅ |
 | Day 196| 2026-11-24|Word Break II | Neetcode     | [Problem](https://neetcode.io/problems/word-break-ii/question) | ✅ |
 | Day 197| 2026-11-25|Reorganize String | Neetcode     | [Problem](https://neetcode.io/problems/reorganize-string/question) | ✅ |
+| Day 198| 2026-11-26|ongest Happy String | Neetcode     | [Problem](https://neetcode.io/problems/longest-happy-string/question) | ✅ |
