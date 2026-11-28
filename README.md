@@ -209,3 +209,4 @@
 | Day 197| 2026-11-25|Reorganize String | Neetcode     | [Problem](https://neetcode.io/problems/reorganize-string/question) | ✅ |
 | Day 198| 2026-11-26|ongest Happy String | Neetcode     | [Problem](https://neetcode.io/problems/longest-happy-string/question) | ✅ |
 | Day 199| 2026-11-27|Car Pooling | Neetcode     | [Problem](https://neetcode.io/problems/longest-happy-string/question) | ✅ |
+| Day 200| 2026-11-28|IPO  Neetcode     | [Problem](https://neetcode.io/problems/ipo/history?list=neetcode250&submissionIndex=0) | ✅ |
